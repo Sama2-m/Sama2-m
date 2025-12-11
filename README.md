@@ -10,13 +10,13 @@ I am a Software Test Engineer with extensive experience in automation, backend, 
 ## 🔧 Technical Skills
 
 ### **Automation & Tools**
-- WebdriverIO (+2 yrs), Selenium WebDriver (Java, C#, .NET Core)
+- WebdriverIO (+3 yrs), Selenium WebDriver (Java, C#, .NET Core)
 - Mobile automation (iOS/Android) using WebdriverIO
 - Postman automation, RestAssured, GraphQL, gRPC
 - BrowserStack cloud-based testing
 
 ### **Languages**
-- JavaScript (+2 yrs)  
+- JavaScript (+3 yrs)  
 - Python (8 months)  
 - Java (3 yrs)
 
@@ -50,7 +50,7 @@ I am a Software Test Engineer with extensive experience in automation, backend, 
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Trainings
 - ISTQB Foundation Level  
 - Selenium Automation (Java, C# / .NET Core)  
 - Backend Testing Training  
